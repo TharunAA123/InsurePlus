@@ -5,7 +5,7 @@ Claim Specialists are tasked with regularly using a Reserving Tool to help them 
 There are lots of guidelines on how frequently an examiner should be using the Reserving Tool. An examiner has to use the reserving tool a 
 certain number of days after the claim re-opens, after being assigned the claim, or after an examiner last used the Reserving Tool on that claim.
 
-In essence, InsurePlus comprises a Stored Procedure which determine show long an examiner has until they are required to use the Reserving Tool;
+In essence, InsurePlus comprises a Stored Procedure which determines show long an examiner has until they are required to use the Reserving Tool;
 and if they are already past their due date, how many days they have been overdue. This is done for all the claims assigned to all
 the Claim Specialists using the Reserve Tool in an insurance organisation.
 
